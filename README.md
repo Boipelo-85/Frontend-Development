@@ -30,13 +30,10 @@ Users are able to:
  
 ### Screenshot
 
-![Newsletter sign-up screenshot 1](images/screen_1.png)
-
-![Newsletter sign-up screenshot 2](images/screen_2.png)
-
-![Newsletter sign-up screenshot 3](images/screen_3.png)
-
-![Newsletter sign-up screenshot 4](images/screen_4.png)
+![Screenshot 1](images/screen_1.png)
+![Screenshot 2](images/screen_2.png)
+![Screenshot 3](images/screen_3.png)
+![Screenshot 4](images/screen_4.png)
 
 ---
  
